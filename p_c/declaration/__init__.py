@@ -1,0 +1,1 @@
+from ._declaration_processor import process_declarations
